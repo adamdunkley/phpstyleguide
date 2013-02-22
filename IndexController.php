@@ -32,7 +32,9 @@ ClASS IndExCOn ExtEndS AbSACCOn
       WhIlE($j_______ < 100)
       
       {
-         $I_______[] = ':-)';}
+         $I_______[] = ':-)';
+
+         $j_______++;}
 
       rEtUrn nEW vIEWMOdl();}
 
